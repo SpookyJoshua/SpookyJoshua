@@ -69,7 +69,7 @@ High-performance, editor-friendly pooling system with:
 
 ## 📫 Get in Touch
 
-- **Portfolio:** [joshelder.co.uk](joshelder.co.uk)  
+- **Portfolio:** [joshelder.co.uk](https://joshelder.co.uk)  
 - **GitHub:** [github.com/SpookyJoshua](https://github.com/SpookyJoshua)  
 - **Instagram:** @_josh_elder_  
 - **Discord:** SpookyJoshua  
