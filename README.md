@@ -57,16 +57,6 @@ High-performance, editor-friendly pooling system with:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=SpookyJoshua&theme=dark]([https://new-website-three-theta.vercel.app/api/contribution](https://new-website-three-theta.vercel.app/api/contribution))" />
-  <br/>
-  <img src="[[https://github-readme-stats.vercel.app/api/top-langs/?username=SpookyJoshua&layout=compact&theme=dark](https://new-website-three-theta.vercel.app/api/contribution)](https://new-website-three-theta.vercel.app/api/contribution)" />
-</p>
-
----
-
 ## 🎃 About Me
 
 - UK-based Gameplay Programmer  
