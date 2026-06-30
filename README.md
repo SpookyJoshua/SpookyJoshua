@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Josh — Gameplay Programmer & Horror Game Developer
 
 I’m a Unity gameplay programmer specialising in **horror systems**, **modding frameworks**, and **tools development**.  
-Currently building a collection of polished, production-ready systems while developing several horror projects such as **VHS: Tapes Unlocked**, **Whack A Monster**, and **Midnight Hollow**.
+Currently building a collection of polished, production-ready systems while developing several horror projects such as **PULSE//DEADLINE**, **Whack A Monster**, and **Aria's Canvas**.
 
 I love creating:
 - Heart-rate-driven gameplay systems  
