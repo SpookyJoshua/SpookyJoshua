@@ -71,8 +71,8 @@ High-performance, editor-friendly pooling system with:
 
 - **Portfolio:** [joshelder.co.uk](https://joshelder.co.uk)  
 - **GitHub:** [github.com/SpookyJoshua](https://github.com/SpookyJoshua)  
-- **Instagram:** @_josh_elder_  
-- **Discord:** SpookyJoshua  
+- **Instagram:** @void.by.josh  
+- **Discord:** void.by.josh 
 
 ---
 
