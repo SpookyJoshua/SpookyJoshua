@@ -52,18 +52,18 @@ High-performance, editor-friendly pooling system with:
 
 ## 🖥️ What I'm Working On Right Now
 
-- A Unity-based **ANT+ heart-rate integration toolkit**
-- Horror-focused prototypes for my portfolio and final-year projects
+- Maintaining Unity-based **ANT+ & Pulsoid heart-rate integration toolkit**
+- Horror-focused prototypes for my portfolio
 
 ---
 
 ## 🎃 About Me
 
 - UK-based Gameplay Programmer  
-- Final-year Games Computing student  
+- Graduate Games Computing student  
 - Horror enthusiast  
 - Creator of tools, systems, and weird prototypes  
-- Frequently working on heart-rate-controlled mechanics, AI, and runtime systems  
+- Frequently working on heart-rate-controlled mechanics, and runtime systems  
 
 ---
 
